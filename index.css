@@ -1,0 +1,58 @@
+body {
+    text-align: left;
+    width: 550px;
+    height: 550px;
+    }
+.container{
+    
+    background: #ECFDF5;
+    padding-left: 52px;
+    padding-right: 52px;;
+    padding-top: 115px;
+    padding-bottom: 115px;
+}
+h1 {
+    width: 354px;
+    margin: 0px;
+    font-family: 'Karla', sans-serif; 
+    
+}
+#ran-pass {
+    color: #10B981;
+}
+p {
+    font-size: 20px;
+    color: #6B7280;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#gen-btn{
+    margin-top: 51px;
+    margin-bottom: 35px;
+    padding: 9px 17px 9px 15px;
+    font-size: 16px;
+    border-radius: 6px;
+    background: #10B981;
+    border: 0px solid #10B981;
+    color: #FFFFFF;
+}
+
+.downcontent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.downcontent > button{
+    margin-top: 35px;
+    width: 211px;
+    height: 39px;
+    border-radius: 6px;
+    background: #273549;
+    border: 0px solid #273549;
+    color: #10B981;
+    
+}
+
